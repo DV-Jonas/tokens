@@ -687,6 +687,20 @@
       "value": "none",
       "type": "text",
       "description": "underline|none"
+    },
+    "letter-spacing": {
+      "1": {
+        "value": "1px",
+        "type": "letterSpacing"
+      },
+      "2": {
+        "value": "2px",
+        "type": "letterSpacing"
+      },
+      "none": {
+        "value": "0px",
+        "type": "letterSpacing"
+      }
     }
   },
   "border": {

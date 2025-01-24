@@ -87,14 +87,6 @@
         "value": "{color.neutral.500}",
         "type": "color"
       },
-      "inverse-surface": {
-        "value": "{color.neutral.800}",
-        "type": "color"
-      },
-      "on-inverse-surface": {
-        "value": "{color.neutral.50}",
-        "type": "color"
-      },
       "surface-container-low": {
         "value": "{color.neutral.0}",
         "type": "color"
@@ -105,6 +97,18 @@
       },
       "surface-container-high": {
         "value": "{color.neutral.300}",
+        "type": "color"
+      },
+      "inverse-surface": {
+        "value": "{color.neutral.800}",
+        "type": "color"
+      },
+      "on-inverse-surface": {
+        "value": "{color.neutral.50}",
+        "type": "color"
+      },
+      "on-inverse-surface-variant": {
+        "value": "{color.neutral.200}",
         "type": "color"
       }
     },
@@ -377,6 +381,16 @@
     "decoration": {
       "value": "{font.font-decoration}",
       "type": "text"
+    },
+    "letter-spacing": {
+      "default": {
+        "value": "{font.letter-spacing.none}",
+        "type": "letterSpacing"
+      },
+      "variant": {
+        "value": "{font.letter-spacing.2}",
+        "type": "letterSpacing"
+      }
     }
   },
   "border": {

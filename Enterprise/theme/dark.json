@@ -106,6 +106,10 @@
       "on-inverse-surface": {
         "value": "{color.neutral.800}",
         "type": "color"
+      },
+      "on-inverse-surface-variant": {
+        "value": "{color.neutral.500}",
+        "type": "color"
       }
     },
     "outline": {
@@ -377,6 +381,16 @@
     "decoration": {
       "value": "{font.font-decoration}",
       "type": "text"
+    },
+    "letter-spacing": {
+      "default": {
+        "value": "{font.letter-spacing.none}",
+        "type": "letterSpacing"
+      },
+      "variant": {
+        "value": "{font.letter-spacing.2}",
+        "type": "letterSpacing"
+      }
     }
   },
   "border": {
