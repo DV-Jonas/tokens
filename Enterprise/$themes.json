@@ -33,6 +33,7 @@
       "color.surface.surface-container-high": "05e2bc6ba585f07369434b7770695be962c4cf42",
       "color.surface.inverse-surface": "6f29fe16a057cb243511911602e711c9eb5a1a2f",
       "color.surface.on-inverse-surface": "076918edfd61ac3c858ffc3e874782e32fd4f981",
+      "color.surface.on-inverse-surface-variant": "61c7a4a06ab6e3984c65973fc83f362c88cad2b9",
       "color.outline.outline-default": "4ac8a937414025e9179fde7940b1dc3fa59023a0",
       "color.outline.outline-variant": "bcc6cf4966780481650a31ea9769491c707db9b2",
       "color.critical.critical-default": "75f5982a24eccf353bc9deb7e1e8d16db94b7ffd",
@@ -115,7 +116,6 @@
       "spacing.block.md": "f4123abe186575406cbd7e3c77f27c73faed1641",
       "spacing.block.lg": "d8ac57ab96aeef6f2bfbb3ff5f66eea7e53f4c73",
       "spacing.block.xl": "3e46bbfb9ec1bc63b6157aa1d3333544a91a2b3d",
-      "color.surface.on-inverse-surface-variant": "61c7a4a06ab6e3984c65973fc83f362c88cad2b9",
       "color.other.on-other": "1fc3b0ea8c5386dad44749574d1de6c1c831fb75"
     },
     "$figmaCollectionId": "VariableCollectionId:1618:19",
@@ -218,6 +218,8 @@
       "font.weight.secondary-strong": "d719894dc872178e92aa89ad3b942cb4d6f7661e",
       "font.transform": "4abcb598f218e2f7e88e68543cff492f320fca4b",
       "font.decoration": "62d68afbdf2e7f42fff05bbebaf552bf83ebacf2",
+      "font.letter-spacing.default": "e6c949d31e4041d2a25c4426eeb19624dacdfbec",
+      "font.letter-spacing.variant": "1021012dd360cd08f7d3d4a959c54a493ec46a68",
       "border.thickness.light": "f793e1c6fec23c4948010dbd5622c9a5930bd363",
       "border.thickness.default": "02ff2b0eb7594631cf7b7560c57b248718c59bbf",
       "border.thickness.strong": "a38f0195142084454d80c2a935f1f33549e3c72b",
@@ -237,8 +239,6 @@
       "spacing.block.md": "f4123abe186575406cbd7e3c77f27c73faed1641",
       "spacing.block.lg": "d8ac57ab96aeef6f2bfbb3ff5f66eea7e53f4c73",
       "spacing.block.xl": "3e46bbfb9ec1bc63b6157aa1d3333544a91a2b3d",
-      "font.letter-spacing.default": "e6c949d31e4041d2a25c4426eeb19624dacdfbec",
-      "font.letter-spacing.variant": "1021012dd360cd08f7d3d4a959c54a493ec46a68",
       "color.other.on-overlay": "93a8ba0ab49707e04e5b9e6d8551dd34cf235548"
     },
     "$figmaCollectionId": "VariableCollectionId:1618:19",
