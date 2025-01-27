@@ -426,6 +426,10 @@
         "type": "dimension"
       },
       "xl": {
+        "value": "{border.radius.24}",
+        "type": "dimension"
+      },
+      "xxl": {
         "value": "{border.radius.max}",
         "type": "dimension"
       }
