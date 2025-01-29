@@ -388,7 +388,7 @@
         "type": "letterSpacing"
       },
       "variant": {
-        "value": "{font.letter-spacing.2}",
+        "value": "{font.letter-spacing.1}",
         "type": "letterSpacing"
       }
     }
