@@ -28,45 +28,45 @@
     },
     "secondary": {
       "secondary-default": {
-        "value": "{color.brand-1.600}",
+        "value": "{color.brand-2.600}",
         "type": "color"
       },
       "on-secondary": {
-        "value": "{color.neutral.0}",
+        "value": "{color.brand-2.50}",
         "type": "color"
       },
       "secondary-container": {
-        "value": "{color.brand-1.100}",
+        "value": "{color.brand-2.100}",
         "type": "color"
       },
       "on-secondary-container": {
-        "value": "{color.brand-1.800}",
+        "value": "{color.brand-2.800}",
         "type": "color"
       },
       "secondary-container-variant": {
-        "value": "{color.brand-1.50}",
+        "value": "{color.brand-2.50}",
         "type": "color"
       }
     },
     "tertiary": {
       "tertiary-default": {
-        "value": "{color.neutral.400}",
+        "value": "{color.brand-3.400}",
         "type": "color"
       },
       "on-tertiary": {
-        "value": "{color.neutral.1000}",
+        "value": "{color.brand-3.900}",
         "type": "color"
       },
       "tertiary-container": {
-        "value": "{color.neutral.200}",
+        "value": "{color.brand-3.200}",
         "type": "color"
       },
       "on-tertiary-container": {
-        "value": "{color.neutral.700}",
+        "value": "{color.brand-3.700}",
         "type": "color"
       },
       "tertiary-container-variant": {
-        "value": "{color.neutral.100}",
+        "value": "{color.brand-3.100}",
         "type": "color"
       }
     },
@@ -178,19 +178,19 @@
     },
     "featured": {
       "featured-default": {
-        "value": "{color.accent-4.600}",
+        "value": "{color.brand-3.600}",
         "type": "color"
       },
       "on-featured": {
-        "value": "{color.accent-4.50}",
+        "value": "{color.brand-3.50}",
         "type": "color"
       },
       "featured-container": {
-        "value": "{color.accent-4.100}",
+        "value": "{color.brand-3.100}",
         "type": "color"
       },
       "on-featured-container": {
-        "value": "{color.accent-4.800}",
+        "value": "{color.brand-3.800}",
         "type": "color"
       }
     },
