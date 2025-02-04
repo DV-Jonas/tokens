@@ -128,90 +128,6 @@
     },
     "accent-4": {
       "50": {
-        "value": "#f8ede6",
-        "type": "color"
-      },
-      "100": {
-        "value": "#f0dace",
-        "type": "color"
-      },
-      "200": {
-        "value": "#e1b59c",
-        "type": "color"
-      },
-      "300": {
-        "value": "#d3916b",
-        "type": "color"
-      },
-      "400": {
-        "value": "#c46c39",
-        "type": "color"
-      },
-      "500": {
-        "value": "#b54708",
-        "type": "color"
-      },
-      "600": {
-        "value": "#913906",
-        "type": "color"
-      },
-      "700": {
-        "value": "#6d2b05",
-        "type": "color"
-      },
-      "800": {
-        "value": "#481c03",
-        "type": "color"
-      },
-      "900": {
-        "value": "#361502",
-        "type": "color"
-      }
-    },
-    "accent-5": {
-      "50": {
-        "value": "#fff9e9",
-        "type": "color"
-      },
-      "100": {
-        "value": "#ffeec3",
-        "type": "color"
-      },
-      "200": {
-        "value": "#ffe39c",
-        "type": "color"
-      },
-      "300": {
-        "value": "#ffd876",
-        "type": "color"
-      },
-      "400": {
-        "value": "#ffce4f",
-        "type": "color"
-      },
-      "500": {
-        "value": "#ffc328",
-        "type": "color"
-      },
-      "600": {
-        "value": "#e2a812",
-        "type": "color"
-      },
-      "700": {
-        "value": "#b98601",
-        "type": "color"
-      },
-      "800": {
-        "value": "#916800",
-        "type": "color"
-      },
-      "900": {
-        "value": "#684b00",
-        "type": "color"
-      }
-    },
-    "accent-6": {
-      "50": {
         "value": "#faf9ff",
         "type": "color"
       },
@@ -258,7 +174,7 @@
         "type": "color"
       },
       "50": {
-        "value": "#f9f9f9",
+        "value": "#fafafa",
         "type": "color"
       },
       "100": {
@@ -304,7 +220,7 @@
     },
     "brand-1": {
       "50": {
-        "value": "#f9f9f9",
+        "value": "#fafafa",
         "type": "color"
       },
       "100": {
@@ -340,13 +256,13 @@
         "type": "color"
       },
       "900": {
-        "value": "#212121",
+        "value": "#000000",
         "type": "color"
       }
     },
     "brand-2": {
       "50": {
-        "value": "#f9f9f9",
+        "value": "#fafafa",
         "type": "color"
       },
       "100": {
@@ -382,13 +298,13 @@
         "type": "color"
       },
       "900": {
-        "value": "#212121",
+        "value": "#000000",
         "type": "color"
       }
     },
     "brand-3": {
       "50": {
-        "value": "#f9f9f9",
+        "value": "#fafafa",
         "type": "color"
       },
       "100": {
@@ -424,7 +340,7 @@
         "type": "color"
       },
       "900": {
-        "value": "#212121",
+        "value": "#000000",
         "type": "color"
       }
     }
