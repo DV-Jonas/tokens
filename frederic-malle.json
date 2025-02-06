@@ -1093,6 +1093,10 @@
           "type": "dimension"
         }
       }
+    },
+    "brand-name": {
+      "value": "frederic malle",
+      "type": "text"
     }
   },
   "theme/dark": {
@@ -1599,6 +1603,10 @@
           "type": "dimension"
         }
       }
+    },
+    "brand-name": {
+      "value": "frederic malle",
+      "type": "text"
     }
   },
   "responsive/lg": {
@@ -2292,7 +2300,8 @@
         "spacing.block.lg": "005dbf18e8b87ace5c95bf4516f2a6e9d4a7276d",
         "spacing.block.xl": "755ebd15110855e03b75dfeb6b608880e3cd5725",
         "spacing.block.xxl": "3d4fc0b820aa59ce033300d36958d18e7f98a0db",
-        "color.other.on-other": "dcef5dfc2b75bac02a5df6a94d4c6d6952763f5a"
+        "brand-name": "6ea3bf392a8cdd2078989fd43709ca276287f7b6",
+        "color.other.on-other": "7fc7c008d84ee367f29f94e4bfb98437ea087c48"
       },
       "$figmaCollectionId": "VariableCollectionId:8077:2290",
       "$figmaModeId": "8077:0",
@@ -2420,7 +2429,8 @@
         "spacing.block.lg": "005dbf18e8b87ace5c95bf4516f2a6e9d4a7276d",
         "spacing.block.xl": "755ebd15110855e03b75dfeb6b608880e3cd5725",
         "spacing.block.xxl": "3d4fc0b820aa59ce033300d36958d18e7f98a0db",
-        "color.other.on-overlay": "97ceca8728c6acb1649071fee6a2eee08e03ca4d"
+        "brand-name": "6ea3bf392a8cdd2078989fd43709ca276287f7b6",
+        "color.other.on-overlay": "422de51ee778e4d0d9c8090641a068dd84ef1f6a"
       },
       "$figmaCollectionId": "VariableCollectionId:8077:2290",
       "$figmaModeId": "8077:1",
