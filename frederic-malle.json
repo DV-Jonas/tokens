@@ -1013,15 +1013,15 @@
           "type": "dimension"
         },
         "lg": {
-          "value": "{border.radius.16}",
+          "value": "{border.radius.none}",
           "type": "dimension"
         },
         "xl": {
-          "value": "{border.radius.24}",
+          "value": "{border.radius.none}",
           "type": "dimension"
         },
         "xxl": {
-          "value": "{border.radius.max}",
+          "value": "{border.radius.none}",
           "type": "dimension"
         }
       }
@@ -1523,15 +1523,15 @@
           "type": "dimension"
         },
         "lg": {
-          "value": "{border.radius.16}",
+          "value": "{border.radius.none}",
           "type": "dimension"
         },
         "xl": {
-          "value": "{border.radius.24}",
+          "value": "{border.radius.none}",
           "type": "dimension"
         },
         "xxl": {
-          "value": "{border.radius.max}",
+          "value": "{border.radius.none}",
           "type": "dimension"
         }
       }
