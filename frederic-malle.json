@@ -366,6 +366,10 @@
           "value": "16px",
           "type": "fontSizes"
         },
+        "18": {
+          "value": "18px",
+          "type": "fontSizes"
+        },
         "20": {
           "value": "20px",
           "type": "fontSizes"
@@ -382,8 +386,16 @@
           "value": "32px",
           "type": "fontSizes"
         },
+        "36": {
+          "value": "36px",
+          "type": "fontSizes"
+        },
         "40": {
           "value": "40px",
+          "type": "fontSizes"
+        },
+        "48": {
+          "value": "48px",
           "type": "fontSizes"
         },
         "52": {
@@ -408,8 +420,16 @@
           "value": "14px",
           "type": "lineHeights"
         },
+        "16": {
+          "value": "16px",
+          "type": "lineHeights"
+        },
         "18": {
           "value": "18px",
+          "type": "lineHeights"
+        },
+        "20": {
+          "value": "20px",
           "type": "lineHeights"
         },
         "22": {
@@ -422,6 +442,10 @@
         },
         "30": {
           "value": "30px",
+          "type": "lineHeights"
+        },
+        "32": {
+          "value": "32px",
           "type": "lineHeights"
         },
         "36": {
@@ -851,41 +875,41 @@
           "type": "fontSizes"
         },
         "xl": {
-          "value": "{font.font-size.20}",
+          "value": "{font.font-size.18}",
           "type": "fontSizes"
         },
         "2xl": {
-          "value": "{font.font-size.24}",
+          "value": "{font.font-size.20}",
           "type": "fontSizes"
         },
         "3xl": {
-          "value": "{font.font-size.28}",
+          "value": "{font.font-size.24}",
           "type": "fontSizes"
         },
         "4xl": {
-          "value": "{font.font-size.32}",
+          "value": "{font.font-size.28}",
           "type": "fontSizes"
         },
         "5xl": {
-          "value": "{font.font-size.40}",
+          "value": "{font.font-size.36}",
           "type": "fontSizes"
         },
         "6xl": {
-          "value": "{font.font-size.52}",
+          "value": "{font.font-size.48}",
           "type": "fontSizes"
         }
       },
       "line-height": {
         "primary-xs": {
-          "value": "{font.line-height.14}",
+          "value": "{font.line-height.16}",
           "type": "lineHeights"
         },
         "primary-sm": {
-          "value": "{font.line-height.18}",
+          "value": "{font.line-height.16}",
           "type": "lineHeights"
         },
         "primary-md": {
-          "value": "{font.line-height.22}",
+          "value": "{font.line-height.16}",
           "type": "lineHeights"
         },
         "primary-lg": {
@@ -893,39 +917,39 @@
           "type": "lineHeights"
         },
         "primary-xl": {
-          "value": "{font.line-height.30}",
+          "value": "{font.line-height.24}",
           "type": "lineHeights"
         },
         "primary-2xl": {
-          "value": "{font.line-height.36}",
+          "value": "{font.line-height.24}",
           "type": "lineHeights"
         },
         "primary-3xl": {
-          "value": "{font.line-height.42}",
+          "value": "{font.line-height.32}",
           "type": "lineHeights"
         },
         "primary-4xl": {
-          "value": "{font.line-height.48}",
+          "value": "{font.line-height.32}",
           "type": "lineHeights"
         },
         "primary-5xl": {
-          "value": "{font.line-height.60}",
+          "value": "{font.line-height.42}",
           "type": "lineHeights"
         },
         "primary-6xl": {
-          "value": "{font.line-height.78}",
+          "value": "{font.line-height.60}",
           "type": "lineHeights"
         },
         "secondary-xs": {
-          "value": "{font.line-height.14}",
+          "value": "{font.line-height.16}",
           "type": "lineHeights"
         },
         "secondary-sm": {
-          "value": "{font.line-height.18}",
+          "value": "{font.line-height.16}",
           "type": "lineHeights"
         },
         "secondary-md": {
-          "value": "{font.line-height.22}",
+          "value": "{font.line-height.16}",
           "type": "lineHeights"
         },
         "secondary-lg": {
@@ -933,27 +957,27 @@
           "type": "lineHeights"
         },
         "secondary-xl": {
-          "value": "{font.line-height.30}",
+          "value": "{font.line-height.24}",
           "type": "lineHeights"
         },
         "secondary-2xl": {
-          "value": "{font.line-height.36}",
+          "value": "{font.line-height.24}",
           "type": "lineHeights"
         },
         "secondary-3xl": {
-          "value": "{font.line-height.42}",
+          "value": "{font.line-height.32}",
           "type": "lineHeights"
         },
         "secondary-4xl": {
-          "value": "{font.line-height.48}",
+          "value": "{font.line-height.32}",
           "type": "lineHeights"
         },
         "secondary-5xl": {
-          "value": "{font.line-height.60}",
+          "value": "{font.line-height.42}",
           "type": "lineHeights"
         },
         "secondary-6xl": {
-          "value": "{font.line-height.78}",
+          "value": "{font.line-height.60}",
           "type": "lineHeights"
         }
       },
@@ -967,7 +991,7 @@
           "type": "fontWeights"
         },
         "primary-strong": {
-          "value": "{font.font-weight.primary-bold}",
+          "value": "{font.font-weight.primary-medium}",
           "type": "fontWeights"
         },
         "secondary-light": {
@@ -979,7 +1003,7 @@
           "type": "fontWeights"
         },
         "secondary-strong": {
-          "value": "{font.font-weight.secondary-bold}",
+          "value": "{font.font-weight.secondary-medium}",
           "type": "fontWeights"
         }
       },
@@ -997,7 +1021,7 @@
           "type": "letterSpacing"
         },
         "variant": {
-          "value": "{font.letter-spacing.1}",
+          "value": "{font.letter-spacing.2}",
           "type": "letterSpacing"
         }
       }
@@ -1383,41 +1407,41 @@
           "type": "fontSizes"
         },
         "xl": {
-          "value": "{font.font-size.20}",
+          "value": "{font.font-size.18}",
           "type": "fontSizes"
         },
         "2xl": {
-          "value": "{font.font-size.24}",
+          "value": "{font.font-size.20}",
           "type": "fontSizes"
         },
         "3xl": {
-          "value": "{font.font-size.28}",
+          "value": "{font.font-size.24}",
           "type": "fontSizes"
         },
         "4xl": {
-          "value": "{font.font-size.32}",
+          "value": "{font.font-size.28}",
           "type": "fontSizes"
         },
         "5xl": {
-          "value": "{font.font-size.40}",
+          "value": "{font.font-size.36}",
           "type": "fontSizes"
         },
         "6xl": {
-          "value": "{font.font-size.52}",
+          "value": "{font.font-size.48}",
           "type": "fontSizes"
         }
       },
       "line-height": {
         "primary-xs": {
-          "value": "{font.line-height.14}",
+          "value": "{font.line-height.16}",
           "type": "lineHeights"
         },
         "primary-sm": {
-          "value": "{font.line-height.18}",
+          "value": "{font.line-height.16}",
           "type": "lineHeights"
         },
         "primary-md": {
-          "value": "{font.line-height.22}",
+          "value": "{font.line-height.16}",
           "type": "lineHeights"
         },
         "primary-lg": {
@@ -1425,39 +1449,39 @@
           "type": "lineHeights"
         },
         "primary-xl": {
-          "value": "{font.line-height.30}",
+          "value": "{font.line-height.24}",
           "type": "lineHeights"
         },
         "primary-2xl": {
-          "value": "{font.line-height.36}",
+          "value": "{font.line-height.24}",
           "type": "lineHeights"
         },
         "primary-3xl": {
-          "value": "{font.line-height.42}",
+          "value": "{font.line-height.32}",
           "type": "lineHeights"
         },
         "primary-4xl": {
-          "value": "{font.line-height.48}",
+          "value": "{font.line-height.32}",
           "type": "lineHeights"
         },
         "primary-5xl": {
-          "value": "{font.line-height.60}",
+          "value": "{font.line-height.42}",
           "type": "lineHeights"
         },
         "primary-6xl": {
-          "value": "{font.line-height.78}",
+          "value": "{font.line-height.60}",
           "type": "lineHeights"
         },
         "secondary-xs": {
-          "value": "{font.line-height.14}",
+          "value": "{font.line-height.16}",
           "type": "lineHeights"
         },
         "secondary-sm": {
-          "value": "{font.line-height.18}",
+          "value": "{font.line-height.16}",
           "type": "lineHeights"
         },
         "secondary-md": {
-          "value": "{font.line-height.22}",
+          "value": "{font.line-height.16}",
           "type": "lineHeights"
         },
         "secondary-lg": {
@@ -1465,27 +1489,27 @@
           "type": "lineHeights"
         },
         "secondary-xl": {
-          "value": "{font.line-height.30}",
+          "value": "{font.line-height.24}",
           "type": "lineHeights"
         },
         "secondary-2xl": {
-          "value": "{font.line-height.36}",
+          "value": "{font.line-height.24}",
           "type": "lineHeights"
         },
         "secondary-3xl": {
-          "value": "{font.line-height.42}",
+          "value": "{font.line-height.32}",
           "type": "lineHeights"
         },
         "secondary-4xl": {
-          "value": "{font.line-height.48}",
+          "value": "{font.line-height.32}",
           "type": "lineHeights"
         },
         "secondary-5xl": {
-          "value": "{font.line-height.60}",
+          "value": "{font.line-height.42}",
           "type": "lineHeights"
         },
         "secondary-6xl": {
-          "value": "{font.line-height.78}",
+          "value": "{font.line-height.60}",
           "type": "lineHeights"
         }
       },
@@ -1503,7 +1527,7 @@
           "type": "letterSpacing"
         },
         "variant": {
-          "value": "{font.letter-spacing.1}",
+          "value": "{font.letter-spacing.2}",
           "type": "letterSpacing"
         }
       }
@@ -1637,15 +1661,15 @@
     "font": {
       "line-height": {
         "r-primary-xs": {
-          "value": "{font.line-height.14}",
+          "value": "{font.line-height.16}",
           "type": "lineHeights"
         },
         "r-primary-sm": {
-          "value": "{font.line-height.18}",
+          "value": "{font.line-height.16}",
           "type": "lineHeights"
         },
         "r-primary-md": {
-          "value": "{font.line-height.22}",
+          "value": "{font.line-height.16}",
           "type": "lineHeights"
         },
         "r-primary-lg": {
@@ -1653,39 +1677,39 @@
           "type": "lineHeights"
         },
         "r-primary-xl": {
-          "value": "{font.line-height.30}",
+          "value": "{font.line-height.24}",
           "type": "lineHeights"
         },
         "r-primary-2xl": {
-          "value": "{font.line-height.36}",
+          "value": "{font.line-height.24}",
           "type": "lineHeights"
         },
         "r-primary-3xl": {
-          "value": "{font.line-height.42}",
+          "value": "{font.line-height.32}",
           "type": "lineHeights"
         },
         "r-primary-4xl": {
-          "value": "{font.line-height.48}",
+          "value": "{font.line-height.32}",
           "type": "lineHeights"
         },
         "r-primary-5xl": {
-          "value": "{font.line-height.60}",
+          "value": "{font.line-height.42}",
           "type": "lineHeights"
         },
         "r-primary-6xl": {
-          "value": "{font.line-height.78}",
+          "value": "{font.line-height.60}",
           "type": "lineHeights"
         },
         "r-secondary-xs": {
-          "value": "{font.line-height.14}",
+          "value": "{font.line-height.16}",
           "type": "lineHeights"
         },
         "r-secondary-sm": {
-          "value": "{font.line-height.18}",
+          "value": "{font.line-height.16}",
           "type": "lineHeights"
         },
         "r-secondary-md": {
-          "value": "{font.line-height.22}",
+          "value": "{font.line-height.16}",
           "type": "lineHeights"
         },
         "r-secondary-lg": {
@@ -1693,27 +1717,27 @@
           "type": "lineHeights"
         },
         "r-secondary-xl": {
-          "value": "{font.line-height.30}",
+          "value": "{font.line-height.24}",
           "type": "lineHeights"
         },
         "r-secondary-2xl": {
-          "value": "{font.line-height.36}",
+          "value": "{font.line-height.24}",
           "type": "lineHeights"
         },
         "r-secondary-3xl": {
-          "value": "{font.line-height.42}",
+          "value": "{font.line-height.32}",
           "type": "lineHeights"
         },
         "r-secondary-4xl": {
-          "value": "{font.line-height.48}",
+          "value": "{font.line-height.32}",
           "type": "lineHeights"
         },
         "r-secondary-5xl": {
-          "value": "{font.line-height.60}",
+          "value": "{font.line-height.42}",
           "type": "lineHeights"
         },
         "r-secondary-6xl": {
-          "value": "{font.line-height.78}",
+          "value": "{font.line-height.60}",
           "type": "lineHeights"
         }
       },
@@ -1735,27 +1759,27 @@
           "type": "fontSizes"
         },
         "r-xl": {
-          "value": "{font.font-size.20}",
+          "value": "{font.font-size.18}",
           "type": "fontSizes"
         },
         "r-2xl": {
-          "value": "{font.font-size.24}",
+          "value": "{font.font-size.20}",
           "type": "fontSizes"
         },
         "r-3xl": {
-          "value": "{font.font-size.28}",
+          "value": "{font.font-size.24}",
           "type": "fontSizes"
         },
         "r-4xl": {
-          "value": "{font.font-size.32}",
+          "value": "{font.font-size.28}",
           "type": "fontSizes"
         },
         "r-5xl": {
-          "value": "{font.font-size.40}",
+          "value": "{font.font-size.36}",
           "type": "fontSizes"
         },
         "r-6xl": {
-          "value": "{font.font-size.52}",
+          "value": "{font.font-size.48}",
           "type": "fontSizes"
         }
       }
@@ -1779,15 +1803,15 @@
     "font": {
       "line-height": {
         "r-primary-xs": {
-          "value": "{font.line-height.14}",
+          "value": "{font.line-height.16}",
           "type": "lineHeights"
         },
         "r-primary-sm": {
-          "value": "{font.line-height.18}",
+          "value": "{font.line-height.16}",
           "type": "lineHeights"
         },
         "r-primary-md": {
-          "value": "{font.line-height.22}",
+          "value": "{font.line-height.16}",
           "type": "lineHeights"
         },
         "r-primary-lg": {
@@ -1795,39 +1819,39 @@
           "type": "lineHeights"
         },
         "r-primary-xl": {
-          "value": "{font.line-height.30}",
+          "value": "{font.line-height.24}",
           "type": "lineHeights"
         },
         "r-primary-2xl": {
-          "value": "{font.line-height.36}",
+          "value": "{font.line-height.24}",
           "type": "lineHeights"
         },
         "r-primary-3xl": {
-          "value": "{font.line-height.42}",
+          "value": "{font.line-height.32}",
           "type": "lineHeights"
         },
         "r-primary-4xl": {
-          "value": "{font.line-height.48}",
+          "value": "{font.line-height.32}",
           "type": "lineHeights"
         },
         "r-primary-5xl": {
-          "value": "{font.line-height.60}",
+          "value": "{font.line-height.42}",
           "type": "lineHeights"
         },
         "r-primary-6xl": {
-          "value": "{font.line-height.78}",
+          "value": "{font.line-height.60}",
           "type": "lineHeights"
         },
         "r-secondary-xs": {
-          "value": "{font.line-height.14}",
+          "value": "{font.line-height.16}",
           "type": "lineHeights"
         },
         "r-secondary-sm": {
-          "value": "{font.line-height.18}",
+          "value": "{font.line-height.16}",
           "type": "lineHeights"
         },
         "r-secondary-md": {
-          "value": "{font.line-height.22}",
+          "value": "{font.line-height.16}",
           "type": "lineHeights"
         },
         "r-secondary-lg": {
@@ -1835,27 +1859,27 @@
           "type": "lineHeights"
         },
         "r-secondary-xl": {
-          "value": "{font.line-height.30}",
+          "value": "{font.line-height.24}",
           "type": "lineHeights"
         },
         "r-secondary-2xl": {
-          "value": "{font.line-height.36}",
+          "value": "{font.line-height.24}",
           "type": "lineHeights"
         },
         "r-secondary-3xl": {
-          "value": "{font.line-height.42}",
+          "value": "{font.line-height.32}",
           "type": "lineHeights"
         },
         "r-secondary-4xl": {
-          "value": "{font.line-height.48}",
+          "value": "{font.line-height.32}",
           "type": "lineHeights"
         },
         "r-secondary-5xl": {
-          "value": "{font.line-height.60}",
+          "value": "{font.line-height.42}",
           "type": "lineHeights"
         },
         "r-secondary-6xl": {
-          "value": "{font.line-height.78}",
+          "value": "{font.line-height.60}",
           "type": "lineHeights"
         }
       },
@@ -1877,27 +1901,27 @@
           "type": "fontSizes"
         },
         "r-xl": {
-          "value": "{font.font-size.20}",
+          "value": "{font.font-size.18}",
           "type": "fontSizes"
         },
         "r-2xl": {
-          "value": "{font.font-size.24}",
+          "value": "{font.font-size.20}",
           "type": "fontSizes"
         },
         "r-3xl": {
-          "value": "{font.font-size.28}",
+          "value": "{font.font-size.24}",
           "type": "fontSizes"
         },
         "r-4xl": {
-          "value": "{font.font-size.32}",
+          "value": "{font.font-size.28}",
           "type": "fontSizes"
         },
         "r-5xl": {
-          "value": "{font.font-size.40}",
+          "value": "{font.font-size.36}",
           "type": "fontSizes"
         },
         "r-6xl": {
-          "value": "{font.font-size.52}",
+          "value": "{font.font-size.48}",
           "type": "fontSizes"
         }
       }
@@ -1921,15 +1945,15 @@
     "font": {
       "line-height": {
         "r-primary-xs": {
-          "value": "{font.line-height.14}",
+          "value": "{font.line-height.16}",
           "type": "lineHeights"
         },
         "r-primary-sm": {
-          "value": "{font.line-height.18}",
+          "value": "{font.line-height.16}",
           "type": "lineHeights"
         },
         "r-primary-md": {
-          "value": "{font.line-height.22}",
+          "value": "{font.line-height.16}",
           "type": "lineHeights"
         },
         "r-primary-lg": {
@@ -1937,39 +1961,39 @@
           "type": "lineHeights"
         },
         "r-primary-xl": {
-          "value": "{font.line-height.30}",
+          "value": "{font.line-height.24}",
           "type": "lineHeights"
         },
         "r-primary-2xl": {
-          "value": "{font.line-height.36}",
+          "value": "{font.line-height.24}",
           "type": "lineHeights"
         },
         "r-primary-3xl": {
-          "value": "{font.line-height.42}",
+          "value": "{font.line-height.32}",
           "type": "lineHeights"
         },
         "r-primary-4xl": {
-          "value": "{font.line-height.48}",
+          "value": "{font.line-height.32}",
           "type": "lineHeights"
         },
         "r-primary-5xl": {
-          "value": "{font.line-height.60}",
+          "value": "{font.line-height.42}",
           "type": "lineHeights"
         },
         "r-primary-6xl": {
-          "value": "{font.line-height.78}",
+          "value": "{font.line-height.60}",
           "type": "lineHeights"
         },
         "r-secondary-xs": {
-          "value": "{font.line-height.14}",
+          "value": "{font.line-height.16}",
           "type": "lineHeights"
         },
         "r-secondary-sm": {
-          "value": "{font.line-height.18}",
+          "value": "{font.line-height.16}",
           "type": "lineHeights"
         },
         "r-secondary-md": {
-          "value": "{font.line-height.22}",
+          "value": "{font.line-height.16}",
           "type": "lineHeights"
         },
         "r-secondary-lg": {
@@ -1977,27 +2001,27 @@
           "type": "lineHeights"
         },
         "r-secondary-xl": {
-          "value": "{font.line-height.30}",
+          "value": "{font.line-height.24}",
           "type": "lineHeights"
         },
         "r-secondary-2xl": {
-          "value": "{font.line-height.36}",
+          "value": "{font.line-height.24}",
           "type": "lineHeights"
         },
         "r-secondary-3xl": {
-          "value": "{font.line-height.42}",
+          "value": "{font.line-height.32}",
           "type": "lineHeights"
         },
         "r-secondary-4xl": {
-          "value": "{font.line-height.48}",
+          "value": "{font.line-height.32}",
           "type": "lineHeights"
         },
         "r-secondary-5xl": {
-          "value": "{font.line-height.60}",
+          "value": "{font.line-height.42}",
           "type": "lineHeights"
         },
         "r-secondary-6xl": {
-          "value": "{font.line-height.78}",
+          "value": "{font.line-height.60}",
           "type": "lineHeights"
         }
       },
@@ -2019,27 +2043,27 @@
           "type": "fontSizes"
         },
         "r-xl": {
-          "value": "{font.font-size.20}",
+          "value": "{font.font-size.18}",
           "type": "fontSizes"
         },
         "r-2xl": {
-          "value": "{font.font-size.24}",
+          "value": "{font.font-size.20}",
           "type": "fontSizes"
         },
         "r-3xl": {
-          "value": "{font.font-size.28}",
+          "value": "{font.font-size.24}",
           "type": "fontSizes"
         },
         "r-4xl": {
-          "value": "{font.font-size.32}",
+          "value": "{font.font-size.28}",
           "type": "fontSizes"
         },
         "r-5xl": {
-          "value": "{font.font-size.40}",
+          "value": "{font.font-size.36}",
           "type": "fontSizes"
         },
         "r-6xl": {
-          "value": "{font.font-size.52}",
+          "value": "{font.font-size.48}",
           "type": "fontSizes"
         }
       }
@@ -2063,15 +2087,15 @@
     "font": {
       "line-height": {
         "r-primary-xs": {
-          "value": "{font.line-height.14}",
+          "value": "{font.line-height.16}",
           "type": "lineHeights"
         },
         "r-primary-sm": {
-          "value": "{font.line-height.18}",
+          "value": "{font.line-height.16}",
           "type": "lineHeights"
         },
         "r-primary-md": {
-          "value": "{font.line-height.22}",
+          "value": "{font.line-height.16}",
           "type": "lineHeights"
         },
         "r-primary-lg": {
@@ -2079,39 +2103,39 @@
           "type": "lineHeights"
         },
         "r-primary-xl": {
-          "value": "{font.line-height.30}",
+          "value": "{font.line-height.24}",
           "type": "lineHeights"
         },
         "r-primary-2xl": {
-          "value": "{font.line-height.36}",
+          "value": "{font.line-height.24}",
           "type": "lineHeights"
         },
         "r-primary-3xl": {
-          "value": "{font.line-height.42}",
+          "value": "{font.line-height.32}",
           "type": "lineHeights"
         },
         "r-primary-4xl": {
-          "value": "{font.line-height.48}",
+          "value": "{font.line-height.32}",
           "type": "lineHeights"
         },
         "r-primary-5xl": {
-          "value": "{font.line-height.60}",
+          "value": "{font.line-height.42}",
           "type": "lineHeights"
         },
         "r-primary-6xl": {
-          "value": "{font.line-height.78}",
+          "value": "{font.line-height.60}",
           "type": "lineHeights"
         },
         "r-secondary-xs": {
-          "value": "{font.line-height.14}",
+          "value": "{font.line-height.16}",
           "type": "lineHeights"
         },
         "r-secondary-sm": {
-          "value": "{font.line-height.18}",
+          "value": "{font.line-height.16}",
           "type": "lineHeights"
         },
         "r-secondary-md": {
-          "value": "{font.line-height.22}",
+          "value": "{font.line-height.16}",
           "type": "lineHeights"
         },
         "r-secondary-lg": {
@@ -2119,27 +2143,27 @@
           "type": "lineHeights"
         },
         "r-secondary-xl": {
-          "value": "{font.line-height.30}",
+          "value": "{font.line-height.24}",
           "type": "lineHeights"
         },
         "r-secondary-2xl": {
-          "value": "{font.line-height.36}",
+          "value": "{font.line-height.24}",
           "type": "lineHeights"
         },
         "r-secondary-3xl": {
-          "value": "{font.line-height.42}",
+          "value": "{font.line-height.32}",
           "type": "lineHeights"
         },
         "r-secondary-4xl": {
-          "value": "{font.line-height.48}",
+          "value": "{font.line-height.32}",
           "type": "lineHeights"
         },
         "r-secondary-5xl": {
-          "value": "{font.line-height.60}",
+          "value": "{font.line-height.42}",
           "type": "lineHeights"
         },
         "r-secondary-6xl": {
-          "value": "{font.line-height.78}",
+          "value": "{font.line-height.60}",
           "type": "lineHeights"
         }
       },
@@ -2161,27 +2185,27 @@
           "type": "fontSizes"
         },
         "r-xl": {
-          "value": "{font.font-size.20}",
+          "value": "{font.font-size.18}",
           "type": "fontSizes"
         },
         "r-2xl": {
-          "value": "{font.font-size.24}",
+          "value": "{font.font-size.20}",
           "type": "fontSizes"
         },
         "r-3xl": {
-          "value": "{font.font-size.28}",
+          "value": "{font.font-size.24}",
           "type": "fontSizes"
         },
         "r-4xl": {
-          "value": "{font.font-size.32}",
+          "value": "{font.font-size.28}",
           "type": "fontSizes"
         },
         "r-5xl": {
-          "value": "{font.font-size.40}",
+          "value": "{font.font-size.36}",
           "type": "fontSizes"
         },
         "r-6xl": {
-          "value": "{font.font-size.52}",
+          "value": "{font.font-size.48}",
           "type": "fontSizes"
         }
       }
@@ -2310,7 +2334,7 @@
         "spacing.block.lg": "005dbf18e8b87ace5c95bf4516f2a6e9d4a7276d",
         "spacing.block.xl": "755ebd15110855e03b75dfeb6b608880e3cd5725",
         "spacing.block.xxl": "3d4fc0b820aa59ce033300d36958d18e7f98a0db",
-        "color.other.on-other": "2ef7e112a3a396791d65c79e2bca52414e5faf1a"
+        "color.other.on-other": "3a10b8939dc2fb642816ab1a9fb85134818f5995"
       },
       "$figmaCollectionId": "VariableCollectionId:8077:2290",
       "$figmaModeId": "8077:0",
@@ -2438,7 +2462,7 @@
         "spacing.block.lg": "005dbf18e8b87ace5c95bf4516f2a6e9d4a7276d",
         "spacing.block.xl": "755ebd15110855e03b75dfeb6b608880e3cd5725",
         "spacing.block.xxl": "3d4fc0b820aa59ce033300d36958d18e7f98a0db",
-        "color.other.on-overlay": "3c54a14a9c5af65ecb8171efa7ab2a4b821498d8"
+        "color.other.on-overlay": "faf491d402da126b675865fc22d293e67bc28743"
       },
       "$figmaCollectionId": "VariableCollectionId:8077:2290",
       "$figmaModeId": "8077:1",
