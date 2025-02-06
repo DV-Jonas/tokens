@@ -641,23 +641,23 @@
       },
       "tertiary": {
         "tertiary-default": {
-          "value": "{color.brand-3.400}",
+          "value": "{color.brand-2.400}",
           "type": "color"
         },
         "on-tertiary": {
-          "value": "{color.brand-3.900}",
+          "value": "{color.brand-2.900}",
           "type": "color"
         },
         "tertiary-container": {
-          "value": "{color.brand-3.200}",
+          "value": "{color.brand-2.200}",
           "type": "color"
         },
         "on-tertiary-container": {
-          "value": "{color.brand-3.700}",
+          "value": "{color.brand-2.700}",
           "type": "color"
         },
         "tertiary-container-variant": {
-          "value": "{color.brand-3.100}",
+          "value": "{color.brand-2.100}",
           "type": "color"
         }
       },
@@ -769,19 +769,19 @@
       },
       "featured": {
         "featured-default": {
-          "value": "{color.brand-3.600}",
+          "value": "{color.brand-2.500}",
           "type": "color"
         },
         "on-featured": {
-          "value": "{color.brand-3.50}",
+          "value": "{color.brand-2.50}",
           "type": "color"
         },
         "featured-container": {
-          "value": "{color.brand-3.100}",
+          "value": "{color.brand-2.100}",
           "type": "color"
         },
         "on-featured-container": {
-          "value": "{color.brand-3.800}",
+          "value": "{color.brand-2.800}",
           "type": "color"
         }
       },
@@ -1147,23 +1147,23 @@
       },
       "tertiary": {
         "tertiary-default": {
-          "value": "{color.brand-3.300}",
+          "value": "{color.brand-2.300}",
           "type": "color"
         },
         "on-tertiary": {
-          "value": "{color.brand-3.900}",
+          "value": "{color.brand-2.900}",
           "type": "color"
         },
         "tertiary-container": {
-          "value": "{color.brand-3.500}",
+          "value": "{color.brand-2.500}",
           "type": "color"
         },
         "on-tertiary-container": {
-          "value": "{color.brand-3.50}",
+          "value": "{color.brand-2.50}",
           "type": "color"
         },
         "tertiary-container-variant": {
-          "value": "{color.brand-3.600}",
+          "value": "{color.brand-2.600}",
           "type": "color"
         }
       },
@@ -1275,19 +1275,19 @@
       },
       "featured": {
         "featured-default": {
-          "value": "{color.brand-3.100}",
+          "value": "{color.brand-2.100}",
           "type": "color"
         },
         "on-featured": {
-          "value": "{color.brand-3.800}",
+          "value": "{color.brand-2.800}",
           "type": "color"
         },
         "featured-container": {
-          "value": "{color.brand-3.600}",
+          "value": "{color.brand-2.500}",
           "type": "color"
         },
         "on-featured-container": {
-          "value": "{color.brand-3.50}",
+          "value": "{color.brand-2.50}",
           "type": "color"
         }
       },
@@ -2292,7 +2292,7 @@
         "spacing.block.lg": "005dbf18e8b87ace5c95bf4516f2a6e9d4a7276d",
         "spacing.block.xl": "755ebd15110855e03b75dfeb6b608880e3cd5725",
         "spacing.block.xxl": "3d4fc0b820aa59ce033300d36958d18e7f98a0db",
-        "color.other.on-other": "5ffd26e7db58a4ab34504e8c10ead075506bd942"
+        "color.other.on-other": "dcef5dfc2b75bac02a5df6a94d4c6d6952763f5a"
       },
       "$figmaCollectionId": "VariableCollectionId:8077:2290",
       "$figmaModeId": "8077:0",
@@ -2420,7 +2420,7 @@
         "spacing.block.lg": "005dbf18e8b87ace5c95bf4516f2a6e9d4a7276d",
         "spacing.block.xl": "755ebd15110855e03b75dfeb6b608880e3cd5725",
         "spacing.block.xxl": "3d4fc0b820aa59ce033300d36958d18e7f98a0db",
-        "color.other.on-overlay": "faf491d402da126b675865fc22d293e67bc28743"
+        "color.other.on-overlay": "97ceca8728c6acb1649071fee6a2eee08e03ca4d"
       },
       "$figmaCollectionId": "VariableCollectionId:8077:2290",
       "$figmaModeId": "8077:1",
